@@ -1,0 +1,7 @@
+D:\Azure Developer\azure-app-service\publish\azure-app-service.exe
+D:\Azure Developer\azure-app-service\publish\appsettings.Development.json
+D:\Azure Developer\azure-app-service\publish\appsettings.json
+D:\Azure Developer\azure-app-service\publish\azure-app-service.dll
+D:\Azure Developer\azure-app-service\publish\azure-app-service.deps.json
+D:\Azure Developer\azure-app-service\publish\azure-app-service.runtimeconfig.json
+D:\Azure Developer\azure-app-service\publish\azure-app-service.pdb
